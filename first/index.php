@@ -5,14 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Тег SELECT</title>
-    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
-<p>
-    <ul>
-        <li><a href="./first">First</a></li>
-        <li><a href="./second">Second</a></li>
-    </ul>
-</p>
+<div>
+    <a href="./"><- На главную</a>
+</div>
+<h1> Image from php </h1>
+    <img src="./image.php" alt="">
+
 </body>
 </html>
